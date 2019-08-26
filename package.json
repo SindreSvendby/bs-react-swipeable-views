@@ -7,17 +7,20 @@
     "watch": "bsb -make-world -w"
   },
   "keywords": [
-    "BuckleScript"
+    "BuckleScript",
+    "binding",
+    "react",
+    "ui"
   ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^5.0.6",
-    "react-swipeable-views": "^0.13.3",
-    "reason-react": "^0.7.0"
+    "bs-platform": ">=5.0.0",
+    "react-swipeable-views": ">=0.13.0",
+    "reason-react": ">=0.7.0"
   },
   "peerDependencies": {
-    "react-swipeable-views": "^0.13.3",
-    "reason-react": "^0.7.0"
+    "react-swipeable-views": ">=0.13.0",
+    "reason-react": ">=0.7.0"
   }
 }
