@@ -1,6 +1,5 @@
 {
   "name": "bs-react-swipeable-views",
-  "version": "0.1.0",
   "sources": {
     "dir": "src",
     "public": [
