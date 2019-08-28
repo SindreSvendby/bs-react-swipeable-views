@@ -8,7 +8,8 @@
     "build:webpack:production": "cross-env NODE_ENV=production webpack",
     "server": "webpack-dev-server",
     "watch": "bsb -make-world -w",
-    "webpack": "webpack -w"
+    "webpack": "webpack -w",
+    "publish": "yarn publish && git push --tags"
   },
   "keywords": [
     "BuckleScript",
