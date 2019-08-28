@@ -53,7 +53,7 @@ let make = () => {
 
 # Example
 
-See usage in [example](example/)] folder 
+See usage in [example](example/) folder 
 
 ```
 git clone git@github.com:SindreSvendby/bs-react-swipeable-views.git
