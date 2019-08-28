@@ -17,13 +17,29 @@ Before releasing it would be good to check
 
 - [ ] is the `springConfig` prop correctly written? I'm not familiar with `[@bs.deriving abstract]` - just copy pasted from another package that had react bindings. 
 
-- [ ] is there anything spesific to be done in package.json or bsconfig.json ?
 
+# Example
+
+See usage in example folder 
+
+# Run Example
+
+```
+git clone git@github.com:SindreSvendby/bs-react-swipeable-views.git
+cd bs-react-swipeable-views
+yarn
+yarn server
+# Go to http://localhost:8000 
+```
+
+you can also see the example running here https://bs-react-swipeable-views.now.sh/
 
 # Build
 ```
 npm run build
 ```
+
+
 
 # Watch
 

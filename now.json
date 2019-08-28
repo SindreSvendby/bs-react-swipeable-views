@@ -1,0 +1,10 @@
+{
+    "alias": "bs-react-swipeable-views",
+    "builds": [
+        {
+            "src": "package.json",
+            "use": "@now/static-build"
+        }
+    ],
+    "version": 2
+}
