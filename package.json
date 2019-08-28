@@ -1,6 +1,10 @@
 {
   "name": "bs-react-swipeable-views",
   "version": "0.5.0",
+  "description": "bs bindings for react-swipeable-views",
+  "homepage": "https://github.com/SindreSvendby/bs-react-swipeable-views",
+  "repository": "https://github.com/SindreSvendby/bs-react-swipeable-views",
+  "bugs": "https://github.com/SindreSvendby/bs-react-swipeable-views/issues",
   "scripts": {
     "clean": "bsb -clean-world",
     "build": "npm-run-all -s build:bsb build:webpack:production",
